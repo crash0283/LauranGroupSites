@@ -29,7 +29,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a href="#top"><img id="logo" src="images/Lauran_Logo.png" /></a>
+                    <a href="../index.html"><img id="logo" src="images/Lauran_Logo.png" /></a>
                 </div>
 
                 <!-- Collect the nav links, forms, and other content for toggling -->

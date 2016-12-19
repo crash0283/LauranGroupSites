@@ -23,8 +23,10 @@ h1 {
 }
 
 .lead {
+	margin-top: 50px;
+	font-family: 'Roboto', sans-serif;
     text-align: center;
-    font-weight: 200;
+  	font-weight: bold;
 }
 
 .jumbotron {
@@ -32,7 +34,7 @@ h1 {
 }
 
 body {
-    background: url(images/beachPath.jpg) no-repeat center center fixed;
+    background: url(images/Welcome.jpg) no-repeat center center fixed;
     background-size: cover;
     
 }
