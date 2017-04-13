@@ -254,12 +254,12 @@
                     <br>
                     <h5 class="rates deposit">** Rates do not include $150.00 cleaning fee and 6% tax.  A $300.00 refundable deposit by MasterCard or Visa is required to hold the booking.</h5>
                 </div>
-                <div class="col-md-6 col-md-offset-4" style="margin-top: 30px; margin-bottom: 30px;">
+                <div class="col-md-6 col-md-offset-3" style="margin-top: 30px; margin-bottom: 30px;">
                     <!-- OwnerRez Three Month Calendar widget for Sea Gate Unit 205 -->
                     <div class="ownerrez-widget" data-widgetId="accd3035150346b3a816213f590bafa5" data-propertyId="1724f26b9a5644e081de4bb84b1533be"></div>
                     <script type="text/javascript" src="https://secure.ownerreservations.com/widget.js"></script>
                 </div>
-                <div class="col-md-4 col-md-offset-4" style="margin-top: 30px; margin-bottom: 30px;">
+                <div class="col-md-6 col-md-offset-3" style="margin-top: 30px; margin-bottom: 30px;">
                     <!-- OwnerRez Booking/Inquiry widget for Sea Gate Unit 205 -->
                     <div class="ownerrez-widget" data-widgetId="39ae603735c54850b61052c026e1fc0f" data-propertyId="1724f26b9a5644e081de4bb84b1533be"></div>
                     <script type="text/javascript" src="https://secure.ownerreservations.com/widget.js"></script>

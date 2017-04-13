@@ -3,26 +3,40 @@
 
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>The Lauran Group</title>
     <link rel="stylesheet" href="SeagateWebsite/css/bootstrap.min.css">
     <link href="https://fonts.googleapis.com/css?family=Oswald|Roboto" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300" rel="stylesheet">
     <link rel="stylesheet" href="main.css">
 </head>
 
 <body>
-    <div class="container-fluid jumbotron">
-        <img class="logo" src="images/Lauran_Logo.png" alt="">
-        <h1>Welcome To Your Vacation...</h1>
-        <p class="lead">Please Choose Your Getaway Below:</p>
-        <div class="btnDiv">
-            <p><a class="btn btn-primary btn-lg" href="BeachClubWebsite/beachclub.php">The Beachclub A1506 - Gulf Shores, Alabama</a></p>
-            <p><a class="btn btn-primary btn-lg" href="SeagateWebsite/seagate.php">Sea Gate Unit 205 - Indian Shores, FL</a></p>
+    <div class="container">
+        <div class="main">
+            <img class="logo" src="images/Lauran_Logo.png" alt="">
+            <h1>Welcome To Your Vacation...</h1>
+            <p class="lead">Please Choose Your Getaway Below:</p>
         </div>
-
+        <div class="row">
+            <div class="section col-md-6">
+                <a href="BeachClubWebsite/beachclub.php">
+                    <img class="hover img-responsive img-thumbnail" src="BeachClubWebsite/images/beachclub/balconybig.jpg" alt="">
+                    <span class="text">The Beach Club<span class="subText">Gulf Shores, AL</span></span>
+                </a>
+            </div>
+            <div class="section col-md-6">
+                <a href="SeagateWebsite/seagate.php">
+                    <img class="hover img-responsive img-thumbnail" src="SeagateWebsite/images/seagate/Balcony_FIXED.jpg" alt="">
+                    <span class="text">Sea Gate<span class="subText">Indian Shores, FL</span></span>
+                </a>
+            </div>
+        </div>
     </div>
     <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
     <script src="SeagateWebsite/js/bootstrap.min.js"></script>
-        
+    <script src="mainScript.js"></script>
+
 </body>
 
 </html>

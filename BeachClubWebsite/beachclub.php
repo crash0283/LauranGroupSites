@@ -315,12 +315,12 @@
                 <br>
                 <h5 class="rates deposit">** Rates do not include $150.00 cleaning fee and 13% tax.  A $300.00 refundable deposit by MasterCard or Visa is required to hold the booking.</h5>
             </div>
-            <div class="col-md-6 col-md-offset-4" style="margin-top: 30px; margin-bottom: 30px;">
+            <div class="col-md-6 col-md-offset-3" style="margin-top: 30px; margin-bottom: 30px;">
                 <!-- OwnerRez Three Month Calendar widget for The Beach Club A1506 -->
                 <div class="ownerrez-widget" data-widgetId="db3e0bfc41144adfbe3840c67e563c02" data-propertyId="03228a3536ec48ca8df7ab6044437e28"></div>
                 <script type="text/javascript" src="https://secure.ownerreservations.com/widget.js"></script>
             </div>
-            <div class="col-md-4 col-md-offset-4" style="margin-top: 30px; margin-bottom: 30px;">
+            <div class="col-md-6 col-md-offset-3" style="margin-top: 30px; margin-bottom: 30px;">
                 <!-- OwnerRez Booking/Inquiry widget for The Beach Club A1506 -->
                 <div class="ownerrez-widget" data-widgetId="88cb0cf664c246a78d158c2dec3a717f" data-propertyId="03228a3536ec48ca8df7ab6044437e28"></div>
                 <script type="text/javascript" src="https://secure.ownerreservations.com/widget.js"></script>
