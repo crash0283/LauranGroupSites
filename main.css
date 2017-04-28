@@ -65,6 +65,12 @@ a {
     z-index: 1;
 }
 
+@media screen and (max-width: 1368px) {
+    .text {
+        opacity: 1;
+    }
+}
+
 
 
 
