@@ -25,6 +25,10 @@ h1 {
 /*    padding-top: 20px;*/
 }
 
+.img-thumbnail {
+    display: block;
+}
+
 a {
     position: relative;
     padding: 0;

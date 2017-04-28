@@ -98,5 +98,6 @@ $(function () {
             colorSchemeViewer: 'light',
             maxWidth: 1500
         });
+        
     });
 });
