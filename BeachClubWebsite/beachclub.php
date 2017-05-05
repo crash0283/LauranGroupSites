@@ -152,49 +152,49 @@
                                 <th>Monthly Rate:</th>
                             </tr>
                             <tr>
-                                <td>11/27/16 - 3/3/17</td>
+                                <td>11/25/17 - 3/2/18</td>
                                 <td>3 Days</td>
                                 <td>$175</td>
                                 <td>$995</td>
                                 <td>$2985</td>
                             </tr>
                             <tr>
-                                <td>3/4/17 - 5/18/17</td>
+                                <td>3/3/18 - 5/17/18</td>
                                 <td>3 Days</td>
                                 <td>$250</td>
                                 <td>$1550</td>
                                 <td>N/A</td>
                             </tr>
                             <tr>
-                                <td>5/19/17 - 5/21/17 (Hangout Music Fest Week)</td>
+                                <td>5/18/18 - 5/25/18 (Hangout Music Fest Week)</td>
                                 <td>3 Days</td>
                                 <td>$300</td>
                                 <td>$1750</td>
                                 <td>N/A</td>
                             </tr>
                             <tr>
-                                <td>5/22/17 - 5/29/17 (Memorial Day Week)</td>
+                                <td>5/26/18 - 6/1/18 (Memorial Day Week)</td>
                                 <td>3 Days</td>
                                 <td>$425</td>
                                 <td>$2550</td>
                                 <td>N/A</td>
                             </tr>
                             <tr>
-                                <td>5/30/17 - 7/1/17</td>
+                                <td>6/2/18 - 6/29/18</td>
                                 <td>7 Days</td>
                                 <td>N/A</td>
                                 <td>$2550</td>
                                 <td>N/A</td>
                             </tr>
                             <tr>
-                                <td>7/2/17 - 7/7/17 (Fourth of July Week)</td>
+                                <td>6/30/18 - 7/6/18 (Fourth of July Week)</td>
                                 <td>7 Days</td>
                                 <td>N/A</td>
                                 <td>$2850</td>
                                 <td>N/A</td>
                             </tr>
                             <tr>
-                                <td>7/8/17 - 8/18/17</td>
+                                <td>7/7/18 - 8/17/18</td>
                                 <td>7 Days</td>
                                 <td>N/A</td>
                                 <td>$2550</td>
@@ -215,14 +215,14 @@
                                 <td>N/A</td>
                             </tr>
                             <tr>
-                                <td>9/5/17 - 10/15/17</td>
+                                <td>9/5/17 - 10/13/17</td>
                                 <td>3 Days</td>
                                 <td>$225</td>
                                 <td>$1250</td>
                                 <td>N/A</td>
                             </tr>
                             <tr>
-                                <td>10/16/17 - 11/17/17</td>
+                                <td>10/14/17 - 11/17/17</td>
                                 <td>3 Days</td>
                                 <td>$175</td>
                                 <td>$995</td>
