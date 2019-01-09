@@ -266,7 +266,6 @@
             <!-- <div class="pano">
                     <iframe width="600" height="400" allowfullscreen style="border-style:none;" src="http://cdn.pannellum.org/2.2/pannellum.htm?panorama=http%3A//i.imgur.com/ZEBmx9d.jpg"></iframe>
                 </div> -->
-<<<<<<< master
             </section>
 
             <section class="row">
@@ -295,12 +294,12 @@
 	                    	<td>$4650</td>
 	                    </tr>
 	                    <tr>
-	                    	<td>02/08/20 - 03/03/20</td>
+	                    	<td>02/08/20 - 03/13/20</td>
 	                    	<td>$2300</td>
 	                    	<td>$6900</td>
 	                    </tr>
 	                    <tr>
-	                    	<td>03/04/20 - 04/03/20</td>
+	                    	<td>03/14/20 - 04/03/20</td>
 	                    	<td>$2530</td>
 	                    	<td>N/A</td>
 	                    </tr>
@@ -327,65 +326,6 @@
 	                </table>
                     <br>
                     <h5 class="rates deposit">** Rates do not include $150.00 cleaning fee and 13% tax by credit card.  A $300.00 refundable deposit by MasterCard or Visa is required to hold the booking.</h5>
-=======
-        </section>
-        <section class="row">
-            <div class="fill-screen fixed-attachment img-responsive" style="background-image: url('images/seagate/Turtle_01_FIXED.jpg');"></div>
-        </section>
-        <div class="col-xs-12"> <img id="reserve" class="img-responsive bookImg" src="images/seagate/calendar.png"> </div>
-        <section class="container-fluid reserveMe">
-           <div class="row">
-            <h1 id="ratesReservations" style="text-align: center; margin-top: 30px;">Rates and Reservations</h1>
-            <div class="col-xs-12">
-                <div class="table-responsive">
-                    <table class="table table-striped">
-                        <tr>
-                            <th>Dates:</th>
-                            <th>Weekly Rate:</th>
-                            <th>Monthly Rate:</th>
-                        </tr>
-                        <tr>
-                            <td>9/30/17 - 12/22/17</td>
-                            <td>$1000</td>
-                            <td>$3000</td>
-                        </tr>
-                        <tr>
-                            <td>12/23/17 - 2/9/18</td>
-                            <td>$1550</td>
-                            <td>$4650</td>
-                        </tr>
-                        <tr>
-                            <td>2/10/18 - 3/16/18</td>
-                            <td>$2300</td>
-                            <td>$6900</td>
-                        </tr>
-                        <tr>
-                            <td>3/17/18 - 4/6/18</td>
-                            <td>$2530</td>
-                            <td>N/A</td>
-                        </tr>
-                        <tr>
-                            <td>4/7/18 - 6/29/18</td>
-                            <td>$1625</td>
-                            <td>N/A</td>
-                        </tr>
-                        <tr>
-                            <td>6/30/18 - 7/6/18</td>
-                            <td>$2530</td>
-                            <td>N/A</td>
-                        </tr>
-                        <tr>
-                            <td>7/7/18 - 8/17/18</td>
-                            <td>$1625</td>
-                            <td>N/A</td>
-                        </tr>
-                        <tr>
-                            <td>8/19/17 - 9/30/17</td>
-                            <td>$1275</td>
-                            <td>$3825</td>
-                        </tr>
-                    </table>
->>>>>>> origin/master
                 </div>
                 </div>
                 <br>
