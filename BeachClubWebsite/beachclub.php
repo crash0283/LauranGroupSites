@@ -228,84 +228,84 @@
                         <th>Monthly Rate:</th>
                     </tr>
                     <tr>
-                        <td>11/27/16 - 3/3/17</td>
+                        <td>12/18/18 - 03/01/19</td>
                         <td>3 Days</td>
                         <td>$175</td>
                         <td>$995</td>
                         <td>$2985</td>
                     </tr>
                     <tr>
-                        <td>3/4/17 - 5/18/17</td>
+                        <td>03/02/19 - 05/16/19</td>
                         <td>3 Days</td>
                         <td>$250</td>
                         <td>$1550</td>
-                        <td>N/A</td>
+                        <td>$4650</td>
                     </tr>
                     <tr>
-                        <td>5/19/17 - 5/21/17 (Hangout Music Fest Week)</td>
+                        <td>05/17/19 - 05/24/19 (Hangout Music Fest Week)</td>
                         <td>3 Days</td>
                         <td>$300</td>
                         <td>$1750</td>
                         <td>N/A</td>
                     </tr>
                     <tr>
-                        <td>5/22/17 - 5/29/17 (Memorial Day Week)</td>
+                        <td>05/25/19 - 05/31/19 (Memorial Day Week)</td>
                         <td>3 Days</td>
                         <td>$425</td>
                         <td>$2550</td>
                         <td>N/A</td>
                     </tr>
                     <tr>
-                        <td>5/30/17 - 7/1/17</td>
+                        <td>06/01/19 - 06/28/19</td>
                         <td>7 Days</td>
                         <td>N/A</td>
                         <td>$2550</td>
                         <td>N/A</td>
                     </tr>
                     <tr>
-                        <td>7/2/17 - 7/7/17 (Fourth of July Week)</td>
+                        <td>06/29/19 - 07/05/19 (Fourth of July Week)</td>
                         <td>7 Days</td>
                         <td>N/A</td>
                         <td>$2850</td>
                         <td>N/A</td>
                     </tr>
                     <tr>
-                        <td>7/8/17 - 8/18/17</td>
+                        <td>07/06/19 - 08/09/19</td>
                         <td>7 Days</td>
                         <td>N/A</td>
-                        <td>$2550</td>
+                        <td>$2300</td>
                         <td>N/A</td>
                     </tr>
                     <tr>
-                        <td>8/19/17 - 8/31/17</td>
+                        <td>08/10/19 - 08/30/19</td>
                         <td>3 Days</td>
                         <td>$225</td>
                         <td>$1250</td>
                         <td>N/A</td>
                     </tr>
                     <tr>
-                        <td>9/1/17 - 9/4/17 (Labor Day Weekend)</td>
+                        <td>08/31/19 - 09/02/19 (Labor Day Weekend)</td>
                         <td>3 Days</td>
                         <td>$425</td>
                         <td>$2550</td>
                         <td>N/A</td>
                     </tr>
                     <tr>
-                        <td>9/5/17 - 10/15/17</td>
+                        <td>09/03/19 - 10/11/19</td>
                         <td>3 Days</td>
                         <td>$225</td>
                         <td>$1250</td>
                         <td>N/A</td>
                     </tr>
                     <tr>
-                        <td>10/16/17 - 11/17/17</td>
+                        <td>10/12/19 - 11/22/19</td>
                         <td>3 Days</td>
                         <td>$175</td>
                         <td>$995</td>
                         <td>N/A</td>
                     </tr>
                     <tr>
-                        <td>11/18/17 - 11/26/17</td>
+                        <td>11/23/19 - 11/29/19</td>
                         <td>3 Days</td>
                         <td>$225</td>
                         <td>$1295</td>
@@ -313,7 +313,7 @@
                     </tr>
                 </table>
                 <br>
-                <h5 class="rates deposit">** Rates do not include $150.00 cleaning fee and 13% tax.  A $300.00 refundable deposit by MasterCard or Visa is required to hold the booking.</h5>
+                <h5 class="rates deposit">** Rates do not include $150.00 cleaning fee and 6% tax.  A $300.00 refundable deposit by credit card is required to hold the booking.</h5>
             </div>
             <div class="col-md-6 col-md-offset-4" style="margin-top: 30px; margin-bottom: 30px;">
                 <!-- OwnerRez Three Month Calendar widget for The Beach Club A1506 -->

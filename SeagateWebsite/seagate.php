@@ -211,48 +211,48 @@
 	                		<th>Monthly Rate:</th>
 	                    </tr>
 	                    <tr>
-	                    	<td>10/1/16 - 12/23/16</td>
-	                    	<td>$1000</td>
+	                    	<td>09/28/19 - 12/20/19</td>
+	                    	<td>$1,000</td>
 	                    	<td>$3000</td>
 	                    </tr>
 	                    <tr>
-	                    	<td>12/24/16 - 2/10/17</td>
+	                    	<td>12/21/19 - 02/07/20</td>
 	                    	<td>$1550</td>
 	                    	<td>$4650</td>
 	                    </tr>
 	                    <tr>
-	                    	<td>2/11/17 - 3/17/17</td>
+	                    	<td>02/08/20 - 03/03/20</td>
 	                    	<td>$2300</td>
 	                    	<td>$6900</td>
 	                    </tr>
 	                    <tr>
-	                    	<td>3/18/17 - 4/7/17</td>
+	                    	<td>03/04/20 - 04/03/20</td>
 	                    	<td>$2530</td>
 	                    	<td>N/A</td>
 	                    </tr>
 	                    <tr>
-	                    	<td>4/8/17 - 6/30/17</td>
-	                    	<td>$1625</td>
+	                    	<td>04/06/19 - 06/28/19</td>
+	                    	<td>$1925</td>
 	                    	<td>$4875</td>
 	                    </tr>
 	                    <tr>
-	                    	<td>7/1/17 - 7/7/17</td>
-	                    	<td>$1950</td>
+	                    	<td>06/29/19 - 07/05/19</td>
+	                    	<td>$2530</td>
 	                    	<td>N/A</td>
 	                    </tr>
 	                    <tr>
-	                    	<td>7/8/17 - 8/18/17</td>
-	                    	<td>$1625</td>
+	                    	<td>07/06/19 - 08/16/19</td>
+	                    	<td>$1925</td>
 	                    	<td>$4875</td>
 	                    </tr>
 	                    <tr>
-	                    	<td>8/19/17 - 9/30/17</td>
+	                    	<td>08/17/19 - 09/27/19</td>
 	                    	<td>$1275</td>
 	                    	<td>$3825</td>
 	                    </tr>
 	                </table>
                     <br>
-                    <h5 class="rates deposit">** Rates do not include $150.00 cleaning fee and 6% tax.  A $300.00 refundable deposit by MasterCard or Visa is required to hold the booking.</h5>
+                    <h5 class="rates deposit">** Rates do not include $150.00 cleaning fee and 13% tax by credit card.  A $300.00 refundable deposit by MasterCard or Visa is required to hold the booking.</h5>
                 </div>
                 <div class="col-md-6 col-md-offset-4" style="margin-top: 30px; margin-bottom: 30px;">
                     <!-- OwnerRez Three Month Calendar widget for Sea Gate Unit 205 -->
