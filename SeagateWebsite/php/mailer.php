@@ -22,10 +22,10 @@
 
         // Set the recipient email address.
         // FIXME: Update this to your desired email address.
-        $recipient = "rasch83@gmail.com";
+        $recipient = "office@laurangroup.com";
 
         // Set the email subject.
-        $subject = "A Message From ".$_POST['name']." Regarding The Beach Club, Unit A1506";
+        $subject = "A Message From ".$_POST['name']." Regarding Sea Gate, Unit 205";
 
         // Build the email content.
         $email_content = "Name: $name\n";
