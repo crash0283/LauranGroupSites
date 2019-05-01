@@ -65,6 +65,8 @@ p {
 .fill-screen {
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
 }
 
 @media only screen and (min-width: 1367px) and (max-width: 2047px) {
@@ -148,7 +150,7 @@ p {
 .activity-element img {
     height: 300px;
     /*    border-radius: 190px;*/
-    width: 100% \9;
+    width: 100%;
 }
 
 .rates {

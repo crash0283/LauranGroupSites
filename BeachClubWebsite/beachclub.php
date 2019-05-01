@@ -28,7 +28,7 @@
                         <li> <a href="#beachIcon">Accommodations</a> </li>
                         <li> <a href="#activities">Activities</a> </li>
                         <li> <a href="#gallery">Gallery</a> </li>
-                        <li> <a href="#ratesReservations">Rates And Reservations</a> </li>
+                        <li> <a href="#ratesReservations">Rates</a> </li>
                         <li> <a href="#guest">Guest Book</a> </li>
                         <li> <a href="#contact">Contact Us</a> </li>
                     </ul>
@@ -40,7 +40,7 @@
     </header>
     <div class="container-fluid">
         <section class="row title-row">
-            <div class="fill-screen stellar-bg" style="background-image: url('images/beachclub/balcony-sml.jpg')" data-stellar-background-ratio="0.2"> <img class="img-responsive title-image" src="images/Beach-Club-Logo.png" alt="The Beach Club" />
+            <div class="fill-screen" style="background-image: url('images/beachclub/balcony-sml.jpg')"> <img class="img-responsive title-image" src="images/Beach-Club-Logo.png" alt="The Beach Club" />
                 <div class="down-button">
                     <a class="btn" href="#accommodations"> <i class="fa fa-arrow-circle-down fa-4x"></i> </a>
                 </div>
@@ -74,9 +74,9 @@
             <h4 id="smoking">
                     <strong>*Sorry, No Smoking, No Pets*</strong>
                 </h4> </section>
-        <section class="row">
+
             <div class="fill-screen fixed-attachment img-responsive" style="background-image: url('images/beachclub/beach_FIXED.jpg')"></div>
-        </section>
+
         <section id="activities" class="row activity-section">
             <h1 id="activityTitle">So Much To Do...</h1>
             <div class="activity-element col-md-4 col-md-offset-4"> <img class="img-responsive center-block" src="images/beachclub/clubhouse_thumb.jpg" />
@@ -123,9 +123,9 @@
                 <p>There is always something to do in the water when you are down at The Beach Club! From Deep Sea Fishing to Dolphin Cruises, its got it all! <a href="http://www.robsinshore.com" target="_blank">Rob's Inshore Fishing</a> guarantees a great time out on the Gulf with its year round fishing and sunset cruises. If you are interested in seeing more of the wildlife the Gulf has to offer, <a href="http://dolphincruises.com/contact/locate-us-and-things-to-know/" target="_blank">Dolphin Cruises</a> and <a href="http://www.bluedolphincruises.com/Our-Latitude.htm" target="_blank">Blue Dolphin Cruises</a>, has you covered. <a href="http://www.obboatrentals.com/" target="_blank">Orange Beach Boat Rentals</a> is only 25 minutes from The Beach Club and has great prices for both half day and full day rentals. </p>
             </div>
         </section>
-        <section class="row">
+      
             <div class="fill-screen fixed-attachment img-responsive" style="background-image: url('images/beachclub/beachAndSand_CU_FIXED.jpg');"></div>
-        </section>
+
         <section id="gallery" class="row">
             <h1 style="text-align: center;">Gallery</h1>
             <div id="nanoGallery3"> <a href="images/beachclub/avalonfront.jpg" data-ngthumb="images/beachclub/avalonfront_THUMB.jpg">The Avalon Building</a> <a href="images/beachclub/avalonpool.jpg" data-ngthumb="images/beachclub/avalonpool_THUMB.jpg">The Avalon Pool</a> <a href="images/beachclub/hotpool.jpg" data-ngthumb="images/beachclub/hotpool_THUMB.jpg">Hot Tub</a> <a href="images/beachclub/Clubhouse_Entrance_FIXED.jpg" data-ngthumb="images/beachclub/Clubhouse_Entrance_THUMB.jpg">The Clubhouse Entrance</a> <a href="images/beachclub/Clubhouse_FIXED.jpg" data-ngthumb="images/beachclub/Clubhouse_THUMB.jpg">The Clubhouse</a> <a href="images/beachclub/Clubhouse_Pool_FIXED" data-ngthumb="images/beachclub/Clubhouse_Pool_THUMB.jpg">The Clubhouse Pool</a> <a href="images/beachclub/Clubhouse_FitnessRoom_FIXED.jpg" data-ngthumb="images/beachclub/Clubhouse_FitnessRoom_THUMB.jpg">The Clubhouse Fitness Area</a> <a href="images/beachclub/Clubhouse_GameRoom_FIXED.jpg" data-ngthumb="images/beachclub/Clubhouse_GameRoom_THUMB.jpg">The Clubhouse Gameroom</a> <a href="images/beachclub/VillageCreamery_FIXED.jpg" data-ngthumb="images/beachclub/VillageCreamery_THUMB.jpg">The Village Creamery</a> <a href="images/beachclub/TennisCourt_FIXED.jpg" data-ngthumb="images/beachclub/TennisCourt_THUMB.jpg">Tennis Courts</a> <a href="images/beachclub/BeachView_FIXED.jpg" data-ngthumb="images/beachclub/BeachView_THUMB.jpg">Beach View From Balcony</a> <a href="images/beachclub/balconyocean.jpg" data-ngthumb="images/beachclub/balconyocean_THUMB.jpg">Balcony</a> <a href="images/beachclub/Grill_FIXED.jpg" data-ngthumb="images/beachclub/Grill_THUMB.jpg">Grill On Balcony</a> <a href="images/beachclub/diningonly.jpg" data-ngthumb="images/beachclub/diningonly_THUMB.jpg">Dining Room</a> <a href="images/beachclub/diningroom.jpg" data-ngthumb="images/beachclub/diningroom_THUMB.jpg">Dining Room</a> <a href="images/beachclub/kitchendining.jpg" data-ngthumb="images/beachclub/kitchendining_THUMB.jpg">Dining Room Into Kitchen</a> <a href="images/beachclub/livingroom.jpg" data-ngthumb="images/beachclub/livingroom_THUMB.jpg">Living Room</a> <a href="images/beachclub/LivingRoom_FIXED.jpg" data-ngthumb="images/beachclub/LivingRoom_THUMB.jpg">Living Room</a> <a href="images/beachclub/masterbedroom.jpg" data-ngthumb="images/beachclub/masterbedroom_THUMB.jpg">Master Bedroom</a> <a href="images/beachclub/masterbath.jpg" data-ngthumb="images/beachclub/masterbath_THUMB.jpg">Master Bathroom</a> <a href="images/beachclub/secondbedandbath.jpg" data-ngthumb="images/beachclub/secondbedandbath_THUMB.jpg">Second Bedroom</a> <a href="images/beachclub/twinbeds.jpg" data-ngthumb="images/beachclub/twinbeds_THUMB.jpg">Third Bedroom</a> <a href="images/beachclub/GuestBath_FIXED.jpg" data-ngthumb="images/beachclub/GuestBath_THUMB.jpg">Guest Bath</a> </div>
@@ -133,14 +133,14 @@
                 <iframe allowfullscreen style="border-style: none; width: 70%; height: 400px;" src="http://cdn.pannellum.org/2.2/pannellum.htm?panorama=http%3A//i.imgur.com/ZEBmx9d.jpg"></iframe>
             </div>
         </section>
-        <section class="row">
+
             <div class="fill-screen fixed-attachment img-responsive" style="background-image: url('images/beachclub/family_beach.jpg');"></div>
-        </section>
+    
         <div class="col-xs-4 col-xs-offset-4">
             <img id="reserve" class="img-responsive bookImg" src="images/beachclub/calendar.png">
         </div>
         <section class="row reserveMe">
-            <h1 id="ratesReservations" style="text-align: center; margin-top: 30px;">Rates and Reservations</h1>
+            <h1 id="ratesReservations" style="text-align: center; margin-top: 30px;">Rates</h1>
             <div class="table-responsive col-xs-6 col-md-offset-3">
                 <table class="table table-striped">
                     <tr>
@@ -239,9 +239,9 @@
                 <h5 class="rates deposit">** Rates do not include $150.00 cleaning fee and 6% tax.  A $300.00 refundable deposit by credit card is required to hold the booking.</h5>
             </div>
         </section>
-        <section class="row">
+    
             <div class="fill-screen fixed-attachment img-responsive" style="background-image: url('images/beachclub/overhead_pool.jpg');"></div>
-        </section>
+   
         <div class="col-xs-12"> <img id="guest" class="img-responsive bookImg" src="images/beachclub/guest-book.png"> </div>
         <section id="guestBook" class="row">
             <h1>Guest Book</h1>
@@ -292,8 +292,8 @@
                 </form>
             </div>
         </section>
-    </div>
-    <footer class="container-fluid">
+
+    <footer>
         <h4><i class="fa fa-copyright" aria-hidden="true"></i> 2016 The Lauran Group</h4>
         <div>
             <h4>Find Us On:</h4> <a href="https://www.facebook.com/The-Lauran-Group-183813398309609/?fref=nf"><i style="color: white;" class="fa fa-facebook-official fa-4x" aria-hidden="true"></i></a> </div>
@@ -305,6 +305,7 @@
         <div>Icons made by <a href="http://www.flaticon.com/authors/epiccoders" title="EpicCoders">EpicCoders</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
         <div>Icons made by <a href="http://www.flaticon.com/authors/madebyoliver" title="Madebyoliver">Madebyoliver</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
     </footer>
+    </div>
     <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <script src="js/classie.js"></script>
