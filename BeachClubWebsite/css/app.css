@@ -37,9 +37,11 @@ p {
     #logo {
         width: 200px;
     }
+
     .navbar-header {
         position: relative;
     }
+
     .navbar img {
         position: absolute;
         top: 0;
@@ -47,14 +49,17 @@ p {
         margin: auto;
         width: 70%;
     }
+
     h1 {
         font-size: 24pt;
         font-weight: 600;
     }
+
     .text-banner h1 {
         font-size: 24pt;
         font-weight: 600;
     }
+
     .bookImg {
         width: 450px;
         margin: 0 auto;
@@ -67,6 +72,7 @@ p {
     background-position: center;
     background-repeat: no-repeat;
     width: 100%;
+
 }
 
 @media only screen and (min-width: 1367px) and (max-width: 2047px) {
@@ -74,8 +80,6 @@ p {
         background-attachment: fixed;
     }
 }
-
-@media only screen and (min-device-width: 568px) and (max-device-width: 1366px) and (-webkit-min-device-pixel-ratio: 2) {}
 
 .title-row {
     position: relative;
@@ -175,21 +179,16 @@ p {
     margin-top: -10px;
 }
 
-@media screen and (max-width: 740px) {
+/* @media screen and (max-width: 740px) {
     .required {
         margin-top: -60px;
         margin-right: 20px;
     }
-}
+} */
 
 .reserveMe {
     margin-top: 200px;
 }
-
-
-/*th,td {
-  padding: 0 300px 0 300px;
-}*/
 
 #guestBook {
     margin: 50px;
@@ -307,4 +306,3 @@ article img {
 article p {
     font-size: 16px;
 }
-
