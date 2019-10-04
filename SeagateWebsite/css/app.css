@@ -69,6 +69,14 @@ p {
     background-position: center;
 }
 
+.ratesLink {
+    display: block;
+    width: 100%;
+    text-align: center;
+    font-size: 3rem;
+    margin: 3rem 0;
+}
+
 @media only screen and (min-width: 1367px) and (max-width: 2047px) {
     .fixed-attachment {
         background-attachment: fixed;

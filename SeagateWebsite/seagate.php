@@ -133,60 +133,10 @@
             <div class="col-xs-4 col-xs-offset-4">
                 <img id="reserve" class="img-responsive bookImg" src="images/seagate/calendar.png">
             </div>
-            <section class="row reserveMe">
+            <section class="reserveMe">
                 <h1 id="ratesReservations" style="text-align: center; margin-top: 30px; width: 100%">Rates</h1>
-                <div class="table-responsive col-xs-6 col-md-offset-3">
-                	<table class="table table-striped">
-	                	<tr>
-	                		<th>Dates:</th>
-	                		<th>Weekly Rate:</th>
-	                		<th>Monthly Rate:</th>
-	                    </tr>
-	                    <tr>
-	                    	<td>09/28/19 - 12/20/19</td>
-	                    	<td>$1,000</td>
-	                    	<td>$3000</td>
-	                    </tr>
-	                    <tr>
-	                    	<td>12/21/19 - 02/07/20</td>
-	                    	<td>$1550</td>
-	                    	<td>$4650</td>
-	                    </tr>
-	                    <tr>
-	                    	<td>02/08/20 - 03/13/20</td>
-	                    	<td>$2300</td>
-	                    	<td>$6900</td>
-	                    </tr>
-	                    <tr>
-	                    	<td>03/14/20 - 04/03/20</td>
-	                    	<td>$2530</td>
-	                    	<td>N/A</td>
-	                    </tr>
-	                    <tr>
-	                    	<td>04/06/19 - 06/28/19</td>
-	                    	<td>$1925</td>
-	                    	<td>$4875</td>
-	                    </tr>
-	                    <tr>
-	                    	<td>06/29/19 - 07/05/19</td>
-	                    	<td>$2530</td>
-	                    	<td>N/A</td>
-	                    </tr>
-	                    <tr>
-	                    	<td>07/06/19 - 08/16/19</td>
-	                    	<td>$1925</td>
-	                    	<td>$4875</td>
-	                    </tr>
-	                    <tr>
-	                    	<td>08/17/19 - 09/27/19</td>
-	                    	<td>$1275</td>
-	                    	<td>$3825</td>
-	                    </tr>
-	                </table>
-                    <br>
-                    <h5 class="rates deposit">** Rates do not include $150.00 cleaning fee and 13% tax by credit card.  A $300.00 refundable deposit by MasterCard or Visa is required to hold the booking.</h5>
-                </div> 
-        </section>
+                <a style="text-align: center; margin: 3rem auto; display: block; font-size: 3rem; width: 50%" href="https://www.stpeteclearwatervacationrentals.com/vacation-rentals/rental/SG205/" target="_blank">Click Here For Rates And An Instant Quote!</a>
+            </section>
         <div class="fill-screen fixed-attachment img-responsive" style="background-image: url('images/seagate/PalmTree_FIXED.jpg'); width: 100%"></div>
         <div class="col-xs-12"> <img id="guest" class="img-responsive bookImg" src="images/seagate/guest-book.png"> </div>
         <section id="guestBook" class="row">
@@ -203,8 +153,7 @@
                 };
                 */
                 (function () { // DON'T EDIT BELOW THIS LINE
-                    var d = document
-                        , s = d.createElement('script');
+                    var d = document, s = d.createElement('script');
                     s.src = '//sea-gate-unit-205.disqus.com/embed.js';
                     s.setAttribute('data-timestamp', +new Date());
                     (d.head || d.body).appendChild(s);
@@ -262,7 +211,7 @@
     <script src="js/jquery.stellar.js"></script>
     <script src="js/pannellum/pannellum.js"></script>
     <script src="js/app.js"></script>
-    <script id="dsq-count-scr" src="//laurangroup.disqus.com/count.js" async></script>
+    <script id="dsq-count-scr" src="//sea-gate-unit-205.disqus.com/count.js" async></script>
 </body>
 
 </html>
