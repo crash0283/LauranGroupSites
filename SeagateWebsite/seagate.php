@@ -123,7 +123,20 @@
         <div class="fill-screen fixed-attachment img-responsive" style="background-image: url('images/seagate/dadDaughter.jpg');"></div>
         <section id="gallery" class="row">
             <h1 style="text-align: center;">Gallery</h1>
-            <div id="nanoGallery3"> <a href="images/seagate/Building_FIXED.jpg" data-ngthumb="images/seagate/Building_THUMB.jpg">Sea Gate Exterior</a> <a href="images/seagate/Pool_FIXED.jpg" data-ngthumb="images/seagate/Pool_THUMB.jpg">Pool</a> <a href="images/seagate/Family_Room_FIXED.jpg" data-ngthumb="images/seagate/Living_Room_THUMB.jpg">Family Room</a> <a href="images/seagate/Kitchen_FIXED.jpg" data-ngthumb="images/seagate/Kitchen_FIXED.jpg">Dining Room</a> <a href="images/seagate/Kitchen_FIXED_02.jpg" data-ngthumb="images/seagate/Kitchen_THUMB.jpg">Kitchen</a> <a href="images/seagate/Master_Bedroom_FIXED.jpg" data-ngthumb="images/seagate/Master_Bedroom_THUMB.jpg">Master Bedroom</a> <a href="images/seagate/Master_Bathroom_FIXED.jpg" data-ngthumb="images/seagate/Master_Bathroom_THUMB.jpg">Master Bathroom</a> <a href="images/seagate/Guest_Bedroom_FIXED.jpg" data-ngthumb="images/seagate/Guest_Bedroom_THUMB.jpg">Guest Bedroom</a> <a href="images/seagate/Guest_Bathroom_FIXED.jpg" data-ngthumb="images/seagate/Guest_Bathroom_THUMB.jpg">Guest Bathroom</a> <a href="images/seagate/Second_Guest_Bedroom_FIXED.jpg" data-ngthumb="images/seagate/Second_Guest_Bedroom_THUMB.jpg">Second Guest Bedroom</a> <a href="images/seagate/Laundry_Room_FIXED.jpg" data-ngthumb="images/seagate/Laundry_Room_THUMB.jpg">Laundry Room</a> <a href="images/seagate/Balcony_Gallery_FIXED.jpg" data-ngthumb="images/seagate/Balcony_THUMB.jpg">Balcony</a> <a href="images/seagate/Beach_FIXED.jpg" data-ngthumb="images/seagate/Beach_THUMB.jpg">Beach</a> </div>
+            <div id="nanoGallery3"> 
+                <a href="images/seagate/Building_FIXED.jpg" data-ngthumb="images/seagate/Building_THUMB.jpg">Sea Gate Exterior</a> 
+                <a href="images/seagate/Pool_FIXED.jpg" data-ngthumb="images/seagate/Pool_THUMB.jpg">Pool</a> 
+                <a href="images/imagecompressor/20190929_192110-min.jpg" data-ngthumb="images/imagecompressor/20190929_192110-min.jpg">Family Room</a> 
+                <a href="images/imagecompressor/20190929_192612-min.jpg" data-ngthumb="images/imagecompressor/20190929_192612-min.jpg">Dining Room</a> 
+                <a href="images/imagecompressor/20190929_192023-min.jpg" data-ngthumb="images/imagecompressor/20190929_192023-min.jpg">Kitchen</a> 
+                <a href="images/seagate/Master_Bedroom_FIXED.jpg" data-ngthumb="images/seagate/Master_Bedroom_THUMB.jpg">Master Bedroom</a> 
+                <a href="images/seagate/Master_Bathroom_FIXED.jpg" data-ngthumb="images/seagate/Master_Bathroom_THUMB.jpg">Master Bathroom</a> 
+                <a href="images/imagecompressor/20190928_182600-min.jpg" data-ngthumb="images/imagecompressor/20190928_182600-min.jpg">Guest Bedroom</a> 
+                <a href="images/imagecompressor/20190928_182702-min.jpg" data-ngthumb="images/imagecompressor/20190928_182702-min.jpg">Guest Bathroom</a>
+                 <a href="images/imagecompressor/20190928_182624-min.jpg" data-ngthumb="images/imagecompressor/20190928_182624-min.jpg">Second Guest Bedroom</a> 
+                 <a href="images/imagecompressor/20190929_093758-min.jpg" data-ngthumb="images/imagecompressor/20190929_093758-min.jpg">Laundry Room</a> 
+                 <a href="images/seagate/Balcony_Gallery_FIXED.jpg" data-ngthumb="images/seagate/Balcony_THUMB.jpg">Balcony</a> 
+                 <a href="images/seagate/Beach_FIXED.jpg" data-ngthumb="images/seagate/Beach_THUMB.jpg">Beach</a> </div>
             <!--Panorama Section -->
             <!-- <div class="pano">
                     <iframe width="600" height="400" allowfullscreen style="border-style:none;" src="http://cdn.pannellum.org/2.2/pannellum.htm?panorama=http%3A//i.imgur.com/ZEBmx9d.jpg"></iframe>
