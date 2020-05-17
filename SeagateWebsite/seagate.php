@@ -30,8 +30,8 @@
                         <li> <a href="#activities">Activities</a> </li>
                         <li> <a href="#gallery">Gallery</a> </li>
                         <li> <a href="#ratesReservations">Rates</a> </li>
-                        <li> <a href="#guest">Guest Book</a> </li>
-                        <li> <a href="#contact">Contact Us</a> </li>
+                        <!-- <li> <a href="#guest">Guest Book</a> </li>
+                        <li> <a href="#contact">Contact Us</a> </li> -->
                     </ul>
                 </div>
                 <!-- /.navbar-collapse -->
@@ -151,8 +151,8 @@
                 <a style="text-align: center; margin: 3rem auto; display: block; font-size: 3rem; width: 50%" href="https://www.stpeteclearwatervacationrentals.com/vacation-rentals/rental/SG205/" target="_blank">Click Here For Rates And An Instant Quote!</a>
             </section>
         <div class="fill-screen fixed-attachment img-responsive" style="background-image: url('images/seagate/PalmTree_FIXED.jpg'); width: 100%"></div>
-        <div class="col-xs-12"> <img id="guest" class="img-responsive bookImg" src="images/seagate/guest-book.png"> </div>
-        <section id="guestBook" class="row">
+        <!-- <div class="col-xs-12"> <img id="guest" class="img-responsive bookImg" src="images/seagate/guest-book.png"> </div> -->
+        <!-- <section id="guestBook" class="row">
             <h1>Guest Book</h1>
             <div id="disqus_thread"></div>
             <script>
@@ -173,9 +173,9 @@
                 })();
             </script>
             <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-        </section>
-        <div class="col-xs-12"> <img id="contact" class="img-responsive bookImg" src="images/seagate/contact.png"> </div>
-        <section id="contact-me" class="row">
+        </section> -->
+        <!-- <div class="col-xs-12"> <img id="contact" class="img-responsive bookImg" src="images/seagate/contact.png"> </div> -->
+        <!-- <section id="contact-me" class="row">
             <div class="contact-us">
                 <h1>CONTACT US</h1>
                 <p class="lead">Please feel free to contact us with questions and concerns, otherwise, please use the 'Guest Book' section for comments.</p>
@@ -199,7 +199,7 @@
                     <button id="btn" name="Submit" type="submit" class="btn btn-primary">Submit</button>
                 </form>
             </div>
-        </section>
+        </section> -->
 
     <footer>
         <h4><i class="fa fa-copyright" aria-hidden="true"></i> 2016 The Lauran Group</h4>
