@@ -56,7 +56,7 @@
                         205</strong> is a gorgeous beachfront condominium located in Indian Shores, FL. This beachfront complex is conveniently located between St.Petersburg Beach and Clearwater Beach on Florida's Gulf Coast.</p>
                 <p>Our condo is located on the 3rd floor and is professionally decorated. This is a 1500 square foot condo that features a full balcony view of the Gulf of Mexico and <strong>BEAUTIFUL</strong> sunsets daily! </p>
                 <br>
-                <p> This completely refurnished unit has all the comforts of home and has everything you need to make your stay as comfortable as possible. Enjoy peaceful sunsets or sunny days on our large balcony while watching your kids play on the beautiful white beaches of Florida! </p>
+                <p> This recently remodeled unit has all the comforts of home and has everything you need to make your stay as comfortable as possible. Enjoy peaceful sunsets or sunny days on our large balcony while watching your kids play on the beautiful white beaches of Florida! </p>
             </div>
             <br>
             <br>
